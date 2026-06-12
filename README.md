@@ -1,4 +1,3 @@
 # STRACO
-Structure-Causal Guided Dialogue Synthesis and Collaborative Optimization Framework for Few-Shot Dialogue Summarization.
-The code is comming soon.
+Code for Structure-Causal Guided Dialogue Synthesis and Collaborative Optimization Framework for Few-Shot Dialogue Summarization. Our code will be released upon publication.
 
